@@ -1,0 +1,15 @@
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\bin\Debug\net10.0\Switch-uppg.exe
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\bin\Debug\net10.0\Switch-uppg.deps.json
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\bin\Debug\net10.0\Switch-uppg.runtimeconfig.json
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\bin\Debug\net10.0\Switch-uppg.dll
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\bin\Debug\net10.0\Switch-uppg.pdb
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.AssemblyInfoInputs.cache
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.AssemblyInfo.cs
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.csproj.CoreCompileInputs.cache
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.dll
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\refint\Switch-uppg.dll
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.pdb
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-uppg.genruntimeconfig.cache
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\ref\Switch-uppg.dll
+C:\Users\aljo09005\source\repos\Switch-uppg\Switch-uppg\obj\Debug\net10.0\Switch-u.F003C599.Up2Date
